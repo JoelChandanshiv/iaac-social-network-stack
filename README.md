@@ -61,13 +61,4 @@ The application integrates a range of technologies, including **Nginx**, **Tomca
 - **CI/CD Pipelines**: Add continuous integration and deployment pipelines using **Jenkins** or **GitHub Actions**.
 - **Horizontal Scaling**: Further enhance scalability with horizontal scaling for both the application and data layers.
 
----
-
-## **License**
-This project is licensed under the [MIT License](./LICENSE).
-
----
-
-**Happy Coding!** 🚀
-
 
